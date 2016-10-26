@@ -1,0 +1,9 @@
+﻿  leJeu.cpp
+c:\users\utilisateur\documents\visual studio 2015\projects\cow-bull\cow-bull\lejeu.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilisateur\documents\visual studio 2015\projects\cow-bull\cow-bull\lejeu.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilisateur\documents\visual studio 2015\projects\cow-bull\cow-bull\lejeu.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilisateur\documents\visual studio 2015\projects\cow-bull\cow-bull\lejeu.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilisateur\documents\visual studio 2015\projects\cow-bull\cow-bull\lejeu.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\utilisateur\documents\visual studio 2015\projects\cow-bull\cow-bull\lejeu.cpp(182): warning C4390: ';': empty controlled statement found; is this the intent?
+  cow-bull.vcxproj -> C:\Users\Utilisateur\documents\visual studio 2015\Projects\cow-bull\Debug\cow-bull.exe
+  cow-bull.vcxproj -> C:\Users\Utilisateur\documents\visual studio 2015\Projects\cow-bull\Debug\cow-bull.pdb (Partial PDB)
